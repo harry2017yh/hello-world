@@ -1,5 +1,6 @@
 let obj={
     name:"",
     age:"",
-    sex:""
+    sex:"",
+    school:"",
 };
