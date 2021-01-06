@@ -4,4 +4,5 @@ let obj={
     sex:"",
     school:"",
     major:"",
+    company:''
 };
